@@ -15,6 +15,8 @@ body{
   width: 800px; /* Ajusta el porcentaje según lo que desees */
   margin: 0 auto; /* Centrar el carrusel */
 }
+
+/*Esto lo hace respons*/
 @media (max-width: 768px) {
   .carousel {
     width: 100%; /* Hacerlo completo en pantallas pequeñas */
