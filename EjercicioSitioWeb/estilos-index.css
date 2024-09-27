@@ -15,6 +15,11 @@ body{
   width: 800px; /* Ajusta el porcentaje según lo que desees */
   margin: 0 auto; /* Centrar el carrusel */
 }
+@media (max-width: 768px) {
+  .carousel {
+    width: 100%; /* Hacerlo completo en pantallas pequeñas */
+  }
+}
 .titulo{
   text-align: center;
   margin:10px;
