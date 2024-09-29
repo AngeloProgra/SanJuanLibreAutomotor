@@ -29,7 +29,10 @@
     border-radius: 10px; /* Bordes redondeados */
     transition: transform 0.3s;
 }
-
+.tamano-icono{
+  height: 60px;
+  width: auto;
+}
   .epic-header:hover {
     transform: scale(1.05); /* Efecto de ampliación al pasar el mouse */
   }

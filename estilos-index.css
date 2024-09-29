@@ -11,6 +11,10 @@ body{
   height: 80px;
   width: auto;
 }
+.tamano-icono{
+  height: 60px;
+  width: auto;
+}
 .carousel {
   width: 800px; /* Ajusta el porcentaje según lo que desees */
   margin: 0 auto; /* Centrar el carrusel */

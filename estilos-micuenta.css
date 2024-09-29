@@ -11,11 +11,15 @@
     height: 80px;
     width: auto;
   }
-
+  .tamano-icono{
+    height: 60px;
+    width: auto;
+  }
   .titulo{
     text-align: center;
     margin:10px;
   }
+
   .epic-header {
     font-size: 4rem; /* Tamaño del texto */
     text-align: center;
